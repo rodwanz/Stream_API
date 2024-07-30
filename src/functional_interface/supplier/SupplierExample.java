@@ -10,6 +10,6 @@ public class SupplierExample {
         Supplier<String> suporte = () -> "Mandando brasa!";
         List<String> entendendoSuporte = Stream.generate(suporte).limit(5)
                 .collect(Collectors.toList());
-        entendendoSuporte.forEach(s -> System.out.println(s));
+        entendendoSuporte.forEach(System.out::println);
     }
 }
