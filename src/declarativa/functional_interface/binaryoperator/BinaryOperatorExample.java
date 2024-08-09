@@ -1,4 +1,4 @@
-package functional_interface.binaryoperator;
+package declarativa.functional_interface.binaryoperator;
 
 import java.util.Arrays;
 import java.util.List;

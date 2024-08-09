@@ -1,4 +1,4 @@
-package functional_interface.supplier;
+package declarativa.functional_interface.supplier;
 
 import java.util.List;
 import java.util.function.Supplier;

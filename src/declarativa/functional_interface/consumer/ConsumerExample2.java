@@ -1,4 +1,4 @@
-package functional_interface.consumer;
+package declarativa.functional_interface.consumer;
 
 import java.util.Arrays;
 import java.util.List;

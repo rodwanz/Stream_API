@@ -1,9 +1,8 @@
-package functional_interface.function;
+package declarativa.functional_interface.function;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class FunctionExample {
     public static void main(String[] args) {

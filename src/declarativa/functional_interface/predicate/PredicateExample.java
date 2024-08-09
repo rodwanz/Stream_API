@@ -1,4 +1,4 @@
-package functional_interface.predicate;
+package declarativa.functional_interface.predicate;
 
 import java.util.Arrays;
 import java.util.List;
